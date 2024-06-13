@@ -11,7 +11,7 @@ Siendo un amante de la tecnología, siempre busco estar actualizado con las últ
 
 ## 🛠️ My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongo,mysql,git,java,linux,github,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,Angualr,mysql,git,java,Ionic,github,bash)](https://skillicons.dev)
 
 ## 📚 In Process
 

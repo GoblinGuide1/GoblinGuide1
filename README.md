@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-Como **Progrmador**, mi experiencia abarca más de un año, donde comencé a desarrollar programas, siempre me ha interesado la información, las bases de datos y el mundo que puede haber detrás de todo esto, por eso en los últimos meses me he centrado en aumentar mis conocimientos en el área de desarrollo de software. <br><br>
+Como **Progarmador**, mi experiencia abarca más de un año, donde comencé a desarrollar programas, siempre me ha interesado la información, las bases de datos y el mundo que puede haber detrás de todo esto, por eso en los últimos meses me he centrado en aumentar mis conocimientos en el área de desarrollo de software. <br><br>
 Siendo un amante de la tecnología, siempre busco estar actualizado con las últimas novedades, las tecnologías y su evolución, tratando de evolucionar con ellas y mejorar en este vasto mundo. _Quiero aportar mi granito de arena en el desarrollo de tecnologías y mejorar la vida de las personas._
 
 

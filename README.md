@@ -20,7 +20,7 @@ Siendo un amante de la tecnología, siempre busco estar actualizado con las últ
 ## 📈 Analythics
 <div class="stats" style="display:flex; justify-content: center; align-items: center;">
 
-[![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoblinGuide1&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true&hide_border=TRUE&card_width=390px)](https://github.com/GoblinGuide1) 
+[![Jorge's GitHub stats]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoblinGuide1&langs_count=10&theme=midnight-purple&layout=compact&hide_border=true&hide=css&card_width=390px)](https://github.com/GoblinGuide1)
 
 </div>

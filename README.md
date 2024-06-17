@@ -15,7 +15,7 @@ Siendo un amante de la tecnología, siempre busco estar actualizado con las últ
 
 ## 📚 In Process
 
- [![My Skills](https://skillicons.dev/icons?i=python,docker,go,ts)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=python,docker)](https://skillicons.dev)
 
 ## 📈 Analythics
 <div class="stats" style="display:flex; justify-content: center; align-items: center;">
